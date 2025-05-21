@@ -1,0 +1,4 @@
+intern_id,department,attendance_rate,task_completion_rate,avg_feedback_score,hours_per_week,final_assessment_score,interaction_level
+INT10001,Tech,90,85,4.2,38,80,High
+INT10002,HR,70,60,3.0,30,65,Medium
+INT10003,Marketing,95,90,4.8,40,95,High
